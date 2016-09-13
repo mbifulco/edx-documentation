@@ -23,6 +23,6 @@ name ``arts.myuniversity.edu`` and another site with the domain name
    :maxdepth: 1
 
    create_site
-   configure site
+   configure_site
 
 .. For more infomation about themes, see... TBD
