@@ -8,7 +8,7 @@ By default, an Open edX installation has one site for users to interact with.
 You can configure multiple sites within your Open edX installation. A site
 presents Open edX courses and content in an individual way. If you set up
 multiple sites, you can configure them independently of each other. For
-example, you can assign different themes to each of your Open edX sites.
+example, you can assign a different theme to each site and specify which courses are available on each site.
 
 You host each site on a separate domain or subdomain from your Open edX
 installation. You configure the domain name for a site in the Django admin site
